@@ -8,6 +8,10 @@ Python+Yolov5苹果水果检测识别
 ## 前言
 这篇博客针对<<Python+Yolov5苹果水果检测识别>>编写代码，代码整洁，规则，易读。 学习与应用推荐首选。
 
+## 运行环境
+编程语言：Python3
+依赖库：Torch, Yolov5
+
 ## 运行效果
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit/blob/main/screenshot/1.png" width="500"></a>
 
