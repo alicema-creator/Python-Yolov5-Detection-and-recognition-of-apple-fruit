@@ -38,4 +38,14 @@ Python+Yolov5苹果水果检测识别
   <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit/blob/main/screenshot/qrcode.png" width="200">
 </a>
 
+<font color=#000000 size=4>**作者推荐：**</font>  
+<font color=#000000 size=4>
+**Python人脸识别考勤打卡系统：**
+[https://github.com/alicema-creator/Python-OpenCV-Face-recognition-attendance-management-system](https://github.com/alicema-creator/Python-OpenCV-Face-recognition-attendance-management-system)  
+ **Python果树水果识别**：[https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit](https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit)  
+**Python+Yolov8+Deepsort入口人流量统计：**[https://github.com/alicema-creator/Python-Yolov8-Statistics-of-the-number-of-people-at-the-entrance-and-exit](https://github.com/alicema-creator/Python-Yolov8-Statistics-of-the-number-of-people-at-the-entrance-and-exit)  
+**Python+Qt指纹录入识别考勤系统：**[https://blog.csdn.net/alicema1111/article/details/129338432](https://blog.csdn.net/alicema1111/article/details/129338432)  
+**Python手势特征识别：**[https://github.com/alicema-creator/Python-Yolov8-gesture-recognition](https://github.com/alicema-creator/Python-Yolov8-gesture-recognition)  
+**Python+Yolov8路面桥梁墙体裂缝识别：**[https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges](https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges)  
+</font>  
 
