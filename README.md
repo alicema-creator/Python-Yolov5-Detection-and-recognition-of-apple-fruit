@@ -9,7 +9,7 @@ Python+Yolov5苹果水果检测识别
 这篇源码针对<<Python+Yolov5苹果水果检测识别>>编写代码，代码整洁，规则，易读。 学习与应用推荐首选。
 
 ## 运行环境
-编程语言：Python3  
+编程语言：Python  
 依赖库：Torch, Yolov5
 
 ## 运行效果
