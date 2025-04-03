@@ -23,7 +23,14 @@ Python+Yolov5苹果水果检测识别
 
 
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit/blob/main/screenshot/4.jpg" width="500"></a>
+
+<img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit/blob/main/screenshot/8.jpg" width="500"></a>
+<img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit/blob/main/screenshot/9.jpeg" width="500"></a>
+<img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit/blob/main/screenshot/10.jpg" width="500"></a>
+<img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit/blob/main/screenshot/11.jpg" width="500"></a>
+
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-apple-fruit/blob/main/screenshot/6.png" width="500"></a>
+
 
 
 ## 在线协助
